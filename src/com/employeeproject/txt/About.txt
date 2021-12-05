@@ -1,0 +1,10 @@
+Bu program kurumsal sirketlerin calisan bilgilerini yonetebilmeleri
+amaciyla olusturulmustur.
+Programin Sahip Oldugu Ozellileri:
+- Calisan ekleyebilme (Menu pencersinden).
+- Calisan silebilme (Menu penceresindeki Islemler panelinden acilabilir).
+- Yapilan islemlerin gecmisini goruntuleyebilme(Menu penceresindeki Sistem panelinden acilabilir.).
+- Default kullanici adi ve sifresini veritabani yonetim panelinden degistirebilirsiniz.
+
+Lisans haklarini sakli tutar.
+
