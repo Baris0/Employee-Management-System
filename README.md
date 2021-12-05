@@ -18,3 +18,6 @@ Operation History
 About
 
 ![Hakkinda](https://user-images.githubusercontent.com/54204782/144745281-d88f686f-d3e5-451b-88a2-74aefb818a7d.png)
+
+Database: MySql 
+Default Username-Password: admin
