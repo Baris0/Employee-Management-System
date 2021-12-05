@@ -21,6 +21,8 @@ About
 
 I created this program for easy storage and deletion or viewing of employee information. In addition, thanks to the transaction history storage feature, I ensured that the transactions made were easily tracked.
 
+Soon i will optimize this program to be usable on the web thanks to the Spring Framework. 
+
 Database: MySql 
 
 Default Username-Password: admin
