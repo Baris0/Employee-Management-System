@@ -19,6 +19,8 @@ About
 
 ![Hakkinda](https://user-images.githubusercontent.com/54204782/144745281-d88f686f-d3e5-451b-88a2-74aefb818a7d.png)
 
+I created this program for easy storage and deletion or viewing of employee information. In addition, thanks to the transaction history storage feature, I ensured that the transactions made were easily tracked.
+
 Database: MySql 
 
 Default Username-Password: admin
